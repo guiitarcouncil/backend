@@ -18,7 +18,7 @@ export default function Alerts() {
             title="Success Message"
             message="Be cautious when performing this action."
             showLink={true}
-            linkHref="/"
+            linkHref="/dashboard"
             linkText="Learn more"
           />
           <Alert
@@ -34,7 +34,7 @@ export default function Alerts() {
             title="Warning Message"
             message="Be cautious when performing this action."
             showLink={true}
-            linkHref="/"
+            linkHref="/dashboard"
             linkText="Learn more"
           />
           <Alert
@@ -50,7 +50,7 @@ export default function Alerts() {
             title="Error Message"
             message="Be cautious when performing this action."
             showLink={true}
-            linkHref="/"
+            linkHref="/dashboard"
             linkText="Learn more"
           />
           <Alert
@@ -66,7 +66,7 @@ export default function Alerts() {
             title="Info Message"
             message="Be cautious when performing this action."
             showLink={true}
-            linkHref="/"
+            linkHref="/dashboard"
             linkText="Learn more"
           />
           <Alert
